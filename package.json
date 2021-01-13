@@ -1,0 +1,15 @@
+{
+  "name": "vdom",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/yuler/vdom.git",
+  "author": "yuler <joyful4yu@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/v1/index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^4.1.3"
+  }
+}
