@@ -6,7 +6,8 @@
   "author": "yuler <joyful4yu@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "parcel src/v1/index.html"
+    "dev:v1": "parcel src/v1/index.html",
+    "dev:v2": "parcel src/v2/index.html"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.4",

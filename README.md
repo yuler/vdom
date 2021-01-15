@@ -6,11 +6,10 @@ This repo is for learn virtual dom
 
 > To recap, the virtual DOM is a tool that enables us to interface with DOM elements in an easier and more performant way. It is a Javascript object representation of the DOM, which we can modify as frequently as we need to. Changes made to this object are then collated, and modifications to the actual DOM are targetted and made less often.
 
-## Steps
+## Src
 
-- Define `VNode` object
-- Create `h` function
-- Create `render` function
+- v1: for a simple virtual dom implement
+- v2: for a simple react implement
 
 ## Refs: 
 
