@@ -10,6 +10,7 @@ This repo is for learn virtual dom
 
 - v1: for a simple virtual dom implement
 - v2: for a simple react implement
+- v3: a snabbdom implement
 
 ## Refs: 
 
